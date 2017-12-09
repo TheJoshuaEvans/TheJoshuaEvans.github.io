@@ -6,4 +6,4 @@ Check out [irisEd.com](https://www.irised.com/), I work there as a Software Deve
 
 I used to work at [The Engine Company](https://theengine.co/)
 
-[Linkedin](https://www.linkedin.com/in/joshua-evans-9b388299/)  [Facebook](https://www.facebook.com/joshua.evans.5)  [Twitter](https://twitter.com/EvansAtJoshua)
+[GitHub](https://github.com/TheJoshuaEvans)  [Linkedin](https://www.linkedin.com/in/joshua-evans-9b388299/)  [Facebook](https://www.facebook.com/joshua.evans.5)  [Twitter](https://twitter.com/EvansAtJoshua)

@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    font-family: Lato;
+}
+
+.container {
+    margin-top: 5%;
+}
+
+img {
+    width: 25%;
+}
+
+h1 {
+    text-align: center;
+    font-family: Merriweather;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+p {
+    text-align: center;
+}
+
+.row {
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+a:visited {
+    color: grey;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+}
+
+.bottom-inner {
+    position: relative;
+    left: -50%;
+}

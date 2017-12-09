@@ -27,8 +27,8 @@ p {
 }
 
 .row {
-    margin-right: 30%;
-    margin-left: 30%;
+    margin-right: 20%;
+    margin-left: 20%;
 }
 
 a:visited {
@@ -36,12 +36,7 @@ a:visited {
 }
 
 .bottom {
-    position: absolute;
-    bottom: 0;
+    text-align: center;
+    margin-top: 10%;
     left: 50%;
-}
-
-.bottom-inner {
-    position: relative;
-    left: -50%;
 }

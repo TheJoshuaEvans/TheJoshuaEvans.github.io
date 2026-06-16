@@ -1,3 +1,6 @@
+/**
+ * The core list of pages to display in the sidebar
+ */
 const pages = [
   { label: 'Home', path: 'content/home.md' },
   { label: 'Building my personal website', path: 'content/building-my-website.md' },

@@ -1,23 +1,5 @@
 # Building My Personal Website
 
-This site is built with plain HTML, CSS, and JavaScript — no frameworks, no build step, no dependencies beyond a single markdown renderer.
+Honestly, I think frameworks are kind of overrated. Especially when it comes to the kinds of extremely simple projects that can be accelerated significantly with AI. So, this site just is just plain old HTML, CSS, and JavaScript - hosted using GitHub pages - and built with the help of Claude (~Sonnet 4.6)
 
----
-
-## The Stack
-
-- **HTML/CSS/JS** only. No React, no Vue, no bundler.
-- **[marked.js](https://marked.js.org/)** for rendering markdown, self-hosted in `public/js/`.
-- **GitHub Pages** for hosting — push to `master` and it's live.
-
----
-
-## The Markdown Trick
-
-Content is written as `.md` files and fetched client-side. Clicking a sidebar link fetches the file, runs it through `marked.parse()`, and swaps the content in — no page reload.
-
-For the home page, a synchronous `<script type="text/markdown">` tag was originally used so the browser never sees raw markdown before the first paint. Browsers silently ignore any `<script>` with an unknown `type`, which makes it a handy inert data container.
-
----
-
-## More to come!
+I am being a bit cute, though, and am using [marked.js](https://github.com/markedjs/marked) so that I can write these posts as markdown and have them rendered automatically

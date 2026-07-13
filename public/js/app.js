@@ -3,7 +3,7 @@
  */
 const pages = [
   { label: 'Home', path: 'content/home.md' },
-  { label: 'Building my personal website', path: 'content/building-my-website.md' },
+  { label: 'Building my personal website', path: 'content/0001_building-my-website.md' },
 ];
 
 const contentEl = document.getElementById('md-content');

@@ -8,7 +8,9 @@ I'm just another software developer making my way in the world... I've been work
 
 Check out some of my special projects:
 
-> [Super Planner 9000](https://thejoshuaevans.com/super-planner-900): My latest personal project, a comprehensive life planner!
+> [United States Code](https://github.com/TheJoshuaEvans/united-states-code): A mirror of the US legal code that includes bills from the current congress 
+
+> [Super Planner 9000](https://thejoshuaevans.com/super-planner-900): A comprehensive life planner!
 
 > [Finnegans Ipsum](pages/finnegans_ipsum.html): A super tiny project that uses "Finnegans Wake" by James Joyce to generate "Ipsum" text
 
